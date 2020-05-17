@@ -1,3 +1,4 @@
+import config
 import spotipy
 import spotipy.util as util
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -14,9 +15,9 @@ market = [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO
       "US", "UY", "VN" ]
 
 # insert credentials here
-CLIENT_ID = "{}"
-CLIENT_SECRET = "{}"
-username = '{}'
+CLIENT_ID = config.CLIENT_ID
+CLIENT_SECRET = config.CLIENT_SECRET
+username = config.username
 scope = 'user-top-read user-library-read playlist-modify-public playlist-modify-private playlist-read-private'
 redirect_uri = 'http://mysite.com/callback/'
 
