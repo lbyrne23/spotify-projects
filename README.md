@@ -8,5 +8,4 @@ Finds genre of your favorite songs and gives link to a genre playlist.
 Also lists 5 artists within that genre.
 
 ## artist_genre_lookup
-Finds genre of your favorite songs and gives link to a genre playlist.
-Also lists 5 artists within that genre.
+Give an artist name, and all genres of that artist will be listed.
