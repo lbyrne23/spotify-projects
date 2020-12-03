@@ -7,5 +7,8 @@ Prints top n albums based on a user's saved tracks and playlists.
 Finds genre of your favorite songs and gives link to a genre playlist.
 Also lists 5 artists within that genre.
 
+## genre_wordcloud
+generates a wordcloud of genres from a playlist
+
 ## artist_genre_lookup
 Give an artist name, and all genres of that artist will be listed.
