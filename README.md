@@ -1,4 +1,5 @@
 # Python projects using the Spotify API
+How to set spotify dev app and get tokens: https://analyzable.wordpress.com/2020/04/22/exploring-your-music-taste-with-python-and-the-spotify-api/
 
 ## most_common_albums
 Prints top n albums based on a user's saved tracks and playlists.
