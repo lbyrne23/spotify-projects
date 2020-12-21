@@ -13,3 +13,6 @@ generates a wordcloud of genres from a playlist
 
 ## artist_genre_lookup
 Give an artist name, and all genres of that artist will be listed.
+
+## Reeling In The Years
+A look at the songs used in RTÉ's Reeling In The Years
